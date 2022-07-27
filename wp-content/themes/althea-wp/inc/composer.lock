@@ -1,0 +1,60 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "764c6329214efb6276a87a0bac5a78b2",
+    "packages": [
+        {
+            "name": "colibriwp/themebase",
+            "version": "v0.2.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/extendthemes/colibri-theme-base.git",
+                "reference": "56e71ad7805d70a108e5402f4bfbec362b20364a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/extendthemes/colibri-theme-base/zipball/56e71ad7805d70a108e5402f4bfbec362b20364a",
+                "reference": "56e71ad7805d70a108e5402f4bfbec362b20364a",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.6.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "ColibriWP\\Theme\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL"
+            ],
+            "authors": [
+                {
+                    "name": "ColibriWP",
+                    "email": "support@colibriwp.com"
+                }
+            ],
+            "support": {
+                "issues": "https://github.com/extendthemes/colibri-theme-base/issues",
+                "source": "https://github.com/extendthemes/colibri-theme-base/tree/v0.2.0"
+            },
+            "time": "2020-11-10T10:16:38+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": ">=5.6.0"
+    },
+    "platform-dev": [],
+    "plugin-api-version": "2.0.0"
+}

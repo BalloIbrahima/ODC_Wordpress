@@ -1,0 +1,184 @@
+/*admin*/
+
+body#colibri .wp-block-latest-comments__comment-author {
+  color: #666666;
+  font-size: 14px;
+}
+
+body#colibri .wp-block-latest-comments__comment-author:hover {
+  color: #000;
+}
+
+/*block category*/
+
+body#colibri .wp-block-latest-comments__comment-link {
+  color: #666666;
+  font-size: 14px;
+}
+
+body#colibri .wp-block-latest-comments__comment-link:hover {
+  color: #000;
+}
+
+/*on*/
+
+body#colibri .wp-block-latest-comments .wp-block-latest-comments__comment-meta {
+  font-weight: normal;
+  color: #333333;
+  font-size: 14px;
+}
+
+/*date*/
+
+body#colibri .wp-block-latest-comments .wp-block-latest-comments__comment-date,
+body#colibri .wp-block-latest-comments.has-dates .wp-block-latest-comments__comment-date {
+  font-size: 14px;
+  margin-left: 3.7em;
+  color: #666666;
+}
+
+/*meta + excerpt*/
+
+body#colibri .wp-block-latest-comments .wp-block-latest-comments__comment-meta,
+body#colibri .wp-block-latest-comments .wp-block-latest-comments__comment-excerpt,
+body#colibri .has-avatars .wp-block-latest-comments__comment .wp-block-latest-comments__comment-excerpt,
+body#colibri .has-avatars .wp-block-latest-comments__comment .wp-block-latest-comments__comment-meta {
+  margin-left: 0px;
+}
+
+/*avatar*/
+
+body#colibri .wp-block-latest-comments__comment-avatar {
+  margin-top: 3px;
+}
+
+/*comments list*/
+
+body#colibri .wp-block-latest-comments__comment {
+  margin-bottom: 0px;
+}
+
+/*sidebar search*/
+
+body#colibri .wp-block-search .search-icon {
+  fill: white;
+}
+
+body#colibri .wp-block-search .wp-block-search__button {
+  border-bottom-left-radius: 0 !important;
+  border-top-left-radius: 0 !important;
+}
+
+/*widget blocks*/
+
+body#colibri .widget_block a {
+  text-decoration: underline;
+}
+
+/* fix icon alignment inside container */
+
+body#colibri .h-svg-icon {
+  text-align: center;
+}
+
+/* fix menu icon overlap */
+
+body#colibri .colibri-menu-container > ul.colibri-menu li > ul > li > a:after {
+  content: ' ';
+  display: block;
+  width: 18px;
+}
+
+
+
+/*admin*/
+
+html.althea-wp-theme .wp-block-latest-comments__comment-author {
+  color: #666666;
+  font-size: 14px;
+}
+
+html.althea-wp-theme .wp-block-latest-comments__comment-author:hover {
+  color: #000;
+}
+
+/*block category*/
+
+html.althea-wp-theme .wp-block-latest-comments__comment-link {
+  color: #666666;
+  font-size: 14px;
+}
+
+html.althea-wp-theme .wp-block-latest-comments__comment-link:hover {
+  color: #000;
+}
+
+/*on*/
+
+html.althea-wp-theme .wp-block-latest-comments .wp-block-latest-comments__comment-meta {
+  font-weight: normal;
+  color: #333333;
+  font-size: 14px;
+}
+
+/*date*/
+
+html.althea-wp-theme .wp-block-latest-comments .wp-block-latest-comments__comment-date,
+html.althea-wp-theme .wp-block-latest-comments.has-dates .wp-block-latest-comments__comment-date {
+  font-size: 14px;
+  margin-left: 3.7em;
+  color: #666666;
+}
+
+/*meta + excerpt*/
+
+html.althea-wp-theme .wp-block-latest-comments .wp-block-latest-comments__comment-meta,
+html.althea-wp-theme .wp-block-latest-comments .wp-block-latest-comments__comment-excerpt,
+html.althea-wp-theme .has-avatars .wp-block-latest-comments__comment .wp-block-latest-comments__comment-excerpt,
+html.althea-wp-theme .has-avatars .wp-block-latest-comments__comment .wp-block-latest-comments__comment-meta {
+  margin-left: 0px;
+}
+
+/*avatar*/
+
+html.althea-wp-theme .wp-block-latest-comments__comment-avatar {
+  margin-top: 3px;
+}
+
+/*comments list*/
+
+html.althea-wp-theme .wp-block-latest-comments__comment {
+  margin-bottom: 0px;
+}
+
+/*sidebar search*/
+
+html.althea-wp-theme .wp-block-search .search-icon {
+  fill: white;
+}
+
+html.althea-wp-theme .wp-block-search .wp-block-search__button {
+  border-bottom-left-radius: 0 !important;
+  border-top-left-radius: 0 !important;
+}
+
+/*widget blocks*/
+
+html.althea-wp-theme .widget_block a {
+  text-decoration: underline;
+}
+
+/* fix icon alignment inside container */
+
+html.althea-wp-theme .h-svg-icon {
+  text-align: center;
+}
+
+/* fix menu icon overlap */
+
+html.althea-wp-theme .colibri-menu-container > ul.colibri-menu li > ul > li > a:after {
+  content: ' ';
+  display: block;
+  width: 18px;
+}
+

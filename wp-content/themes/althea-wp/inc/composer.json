@@ -1,0 +1,24 @@
+{
+  "name": "althea/althea-wp-theme",
+  "license": "GPL",
+  "authors": [
+    {
+      "name": "AltheaWP",
+      "email": "support@althea-wp.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "AltheaWP\\Theme\\": "src/"
+    },
+    "files": [
+      "template-functions.php"
+    ]
+  },
+  "require": {
+    "colibriwp/themebase": "^0.2.0"
+  },
+  "config": {
+    "platform-check": false
+  }
+}
